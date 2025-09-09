@@ -25,7 +25,7 @@ Blender’s default startup shows the “Layout” workspace in the main area. T
 * Timeline on bottom left.
 <img width="1442" height="767" alt="Blender Interface" src="https://github.com/user-attachments/assets/acc71cf2-0d5a-4083-93fc-8b510b02df56" />
 
-![Adding a cylinder](https://github.com/user-attachments/assets/7755276a-1bcc-42cc-8a59-60abab2b8b7d)
+
 
 
 
