@@ -14,3 +14,13 @@ This repository was created to show a tutorial on how to create a 3D model in Bl
 # TIPS
 
 Consider that working with Blender can be a challenging task, however, let me tell you a trick to help you progress more quickly in creating your own 3D model: one hand on the keyboard and one hand on the mouse. This is because Blender works with keyboard shortcuts to implement different techniques that will be used extensively throughout this tutorial. You'll find that some shortcuts are applied repeatedly, allowing you to gradually memorize them and feel more comfortable with the work environment.
+
+## Default Workspaces
+
+Blender’s default startup shows the “Layout” workspace in the main area. This workspace is a general workspace to preview your scene and contains the following Editors:
+
+* 3D Viewport on top left.
+* Outliner on top right.
+* Properties on bottom right.
+* Timeline on bottom left.
+
