@@ -23,6 +23,6 @@ Blender’s default startup shows the “Layout” workspace in the main area. T
 * Outliner on top right.
 * Properties on bottom right.
 * Timeline on bottom left.
-![Logo de mi proyecto](Blender Interface.png)
+![Blender Interface]([Blender Interface.png](https://github.com/julioacuna28/MHCP-Mini-Tutorial/blob/main/Blender%20Interface.png))
 
 
