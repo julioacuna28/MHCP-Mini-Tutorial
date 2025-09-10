@@ -308,7 +308,7 @@ Finally, we need to export our model in .fbx format and then import it into Hori
 
 # 📖 Fourth Part.
 
-## Importing our model into Horizon World Desktop Editor
+## 💪 Importing our model into Horizon World Desktop Editor
 
 In this new section, we'll cover how to import our model created in Blender into Horizon World Editor. First, we launch the Horizon World Desktop Editor program. Then, we have the option to create a new world or enter a previously created world. Once we're in our world, under the Asset Library tab, we select the option that says My Assets. Then, we choose the folder where we want to upload our model and then click where it says Add New. We choose the 3D Model option and search for the model that we exported in the previous step from Blender. Once we have located the model, we click on the option that says Import. And we will be able to see our model imported successfully into our folder. Now, we repeat the previous step in the option that says Add New, but this time we select the option that says Texture. We locate where we have the file saved on our computer and proceed to import it. Both the model and the texture should be imported successfully.
 
@@ -319,6 +319,10 @@ Now we just drag and drop our model into the scene of the world we're designing.
 <img width="863" height="753" alt="ImportingIntoHWDE" src="https://github.com/user-attachments/assets/20cad7d5-424b-4626-b7a2-016fa0ff55b1" />
 
 <img width="858" height="789" alt="BlendervsHWDE" src="https://github.com/user-attachments/assets/6aeec482-d1f6-4eab-bfde-9245309988a9" />
+
+# 👏 Conclusion
+
+As we have observed, a reference image was used to create a 3D model without prior knowledge. The possibilities with Blender are endless, as its graphics engine offers a wide range of tools that can be applied to various use cases, such as video games, animations, cinematics, modeling, sculpting, and more. On the other hand, the progress made in Horizon World is fascinating, with new tools continuously integrated into the platform, enabling the creation of stunning applications. These advancements allow users from different parts of the world to actively and concurrently participate in virtual worlds of various genres. By following this tutorial, you can unlock your creative potential and bring your ideas to life in Horizon World. Dive in, experiment, and join a global community of creators building immersive experiences that push the boundaries of imagination. Start creating today and shape the future of virtual worlds!
 
 ### Contributors
 
