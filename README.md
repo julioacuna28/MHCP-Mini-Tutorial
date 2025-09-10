@@ -11,7 +11,7 @@ This repository was created to show a tutorial on how to create a 3D model in Bl
 * Horizon World Desktop Editor
 * Reference image that will be used to create our 3D model.
 
-# TIPS
+### TIPS
 
 Consider that working with Blender can be a challenging task, however, let me tell you a trick to help you progress more quickly in creating your own 3D model: one hand on the keyboard and one hand on the mouse. This is because Blender works with keyboard shortcuts to implement different techniques that will be used extensively throughout this tutorial. You'll find that some shortcuts are applied repeatedly, allowing you to gradually memorize them and feel more comfortable with the work environment.
 
@@ -23,6 +23,8 @@ Blender’s default startup shows the “Layout” workspace in the main area. T
 * Outliner on top right.
 * Properties on bottom right.
 * Timeline on bottom left.
+
+Now we will proceed to create the front part of our 3D model. First we will select all the end vertices of our cylinder that are located on the right. Then, we will repeat the E + S combination several times to cover each one of the front part. First we select E to extrude and then press S to scale the vertices and with the mouse we move the cursor outwards. Then we press E + X again (we extrude and move along the X axis) until we reach the end of the first shape in the reference image. Then we repeat the previous step again to cover the second shape. And when we are at the end, we just press E + X we reach the end and then with the S key we locate the vertices. And finally we just apply E + X to have the final edge of our model. The final result will be the following:
 
 Now we will proceed to create the front part of our 3D model. First we will select all the end vertices of our cylinder that are located on the right. Then, we will repeat the E + S combination several times to cover each one of the front part. First we select E to extrude and then press S to scale the vertices and with the mouse we move the cursor outwards. Then we press E + X again (we extrude and move along the X axis) until we reach the end of the first shape in the reference image. Then we repeat the previous step again to cover the second shape. And when we are at the end, we just press E + X we reach the end and then with the S key we locate the vertices. And finally we just apply E + X to have the final edge of our model. The final result will be the following:
 
