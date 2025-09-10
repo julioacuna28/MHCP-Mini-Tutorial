@@ -28,7 +28,7 @@ This repository was created to show a tutorial on how to create a 3D model in Bl
 
 ✔️ Export our 3D model from Blender and import it into Horizon Word to see the final result of our work.
 
-### TIPS
+### 💡 TIPS
 
 Consider that working with Blender can be a challenging task, however, let me tell you a trick to help you progress more quickly in creating your own 3D model: one hand on the keyboard and one hand on the mouse. This is because Blender works with keyboard shortcuts to implement different techniques that will be used extensively throughout this tutorial. You'll find that some shortcuts are applied repeatedly, allowing you to gradually memorize them and feel more comfortable with the work environment.
 
@@ -83,7 +83,7 @@ As you can see, we need more vertices to complete our entire model. So, we'll us
 
 ![Addingmorevertices](https://github.com/user-attachments/assets/1f2e4d17-2e5f-4d13-b6b4-cd0658de5711)
 
-### TIPS: If after pressing Ctrl + R you move the mouse scroll you can add more cuts automatically without doing the procedure manually.
+### 💡 TIPS: If after pressing Ctrl + R you move the mouse scroll you can add more cuts automatically without doing the procedure manually.
 
 <img width="665" height="744" alt="AddingMoreVertices" src="https://github.com/user-attachments/assets/b0f3d936-8162-449e-8b80-9307db9a0d82" />
 
@@ -91,11 +91,11 @@ Next, we need to reposition the new vertices created in the previous step. To do
 
 <img width="793" height="636" alt="RepositionVertices" src="https://github.com/user-attachments/assets/6d0caf1a-b321-4104-8f50-55fad9b2af98" />
 
-### TIP: To reposition our working view if we've moved our model with the mouse's scroll key, simply press the 1 key on the numpad to return to our working position.
+### 💡 TIP: To reposition our working view if we've moved our model with the mouse's scroll key, simply press the 1 key on the numpad to return to our working position.
 
 Now we'll proceed to cover the entire piece. To do this, we'll switch to solid mode and, while in edit mode, select the front face. Once we have it selected, press the **E key** (which means we're extruding outwards in this case) and then press **G** to reposition the vertices on the model. We'll repeat this step three times, and the result should be as follows.
 
-### TIP: If you want to reposition vertices without adding new ones to the model, select the vertices first, then press G twice to place them where you think they'll fit over your model. Finally, press Enter again. You'll see how the cursor changes in Blender.
+### 💡 TIPS: If you want to reposition vertices without adding new ones to the model, select the vertices first, then press G twice to place them where you think they'll fit over your model. Finally, press Enter again. You'll see how the cursor changes in Blender.
 
 Now we need to adjust how wide we want our model to be. To make it smaller, we'll scale it by pressing **S + Y** (scale along the Y axis only). The result should be as follows. Then, we'll press 1 again on the numpad to add new meshes to cover other parts of the model.
 
@@ -142,7 +142,7 @@ Now we're going to model the back of our reference image. We need to move the cu
 
 <img width="766" height="719" alt="BackPiece" src="https://github.com/user-attachments/assets/a8a88524-fd67-4dd5-a87f-2c0fd3d589a5" />
 
-### TIP: To select multiple vertices of the same face without selecting other vertices, you can press the C key and when you have all the vertices selected, just press the Esc key.
+### 💡 TIPS: To select multiple vertices of the same face without selecting other vertices, you can press the C key and when you have all the vertices selected, just press the Esc key.
 
 Then we proceed to finish fine-tuning the details of our telescopic sight that is in the model. For this, we will select the first cut with the key combination **Shift + Left Click** and observe how the entire area is selected. Then we apply **E + S + Shift + X** (this allows us to extrude and scale only on the X axis so that other parts of the model are not altered). We repeat this step for the other cut of our model that we have present in the reference image. It is important to note that we have to be in Edit Mode. Then for the part of the lens that is in the sight, we select all the vertices then press **I** (Insert), then extrude outwards and then apply **I** (Insert) again. We also repeat the process for the final part of the telescopic sight. With the peculiarity that we have to extrude inwards
 
