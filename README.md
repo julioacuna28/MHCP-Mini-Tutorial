@@ -8,7 +8,9 @@ This repository was created to show a tutorial on how to create a 3D model in Bl
 
 # Requirements
 ✔️ Blender 2.93
+
 ✔️ Horizon World Desktop Editor
+
 ✔️Reference image that will be used to create our 3D model.
 
 # The stated Learning Objectives for this tutorial are:
