@@ -3,6 +3,9 @@
 > [!IMPORTANT]  
 > The final FBX file shown in this tutorial and the PNG texture are available in this repository in case you want to import them into Horizon World. Both files are named stylizedweapon.fbx and stylizedweaponcolor.png.
 
+> [!NOTE]
+> If you want to paint the model using your creativity, it is available in the repository under the name stylizedweapon ready for painting.blend
+
 # Introduction
 
 In the realm of game development and digital content creation, transforming a creative idea into a functional and visually striking 3D asset is a critical skill that can elevate your projects to a professional level. This tutorial will guide you step-by-step through the entire process of creating a 3D weapon, starting from a simple concept sketch to its final integration into a Horizon World Desktop Editor. Whether you're a beginner in 3D modeling or an experienced creator looking to streamline your workflow, you'll learn practical techniques and accessible tools to bring your visions to life. We’ll use industry-standard software like Blender for modeling, texturing and paiting and finally import the result into the Horizon World Desktop Editor, Meta’s platform for building immersive metaverse experiences. Get ready to unleash your creativity and craft assets that not only look stunning but are also optimized for games and virtual environments.
