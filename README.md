@@ -11,6 +11,15 @@ This repository was created to show a tutorial on how to create a 3D model in Bl
 * Horizon World Desktop Editor
 * Reference image that will be used to create our 3D model.
 
+# The stated Learning Objectives for this tutorial are:
+* Learn to model in 3D space using a background image without prior pencil and paper drawing skills.
+* Use the cube that appears in Blender as a guide to create the different pieces that appear in the reference image.
+* Learn to select vertices, add new cuts, and move them using the keyboard to cover the parts that appear in the reference image.
+* Eliminate all faces, vertices, and sides that are not necessarily visible to reduce the number of triangles in our final model.
+* Implement texturing techniques using UV Wrapping before applying it to our 3D model.
+* Use the different brushes included in Blender using the Texture Paint option.
+* Export our 3D model from Blender and import it into Horizon Word to see the final result of our work.
+
 ### TIPS
 
 Consider that working with Blender can be a challenging task, however, let me tell you a trick to help you progress more quickly in creating your own 3D model: one hand on the keyboard and one hand on the mouse. This is because Blender works with keyboard shortcuts to implement different techniques that will be used extensively throughout this tutorial. You'll find that some shortcuts are applied repeatedly, allowing you to gradually memorize them and feel more comfortable with the work environment.
