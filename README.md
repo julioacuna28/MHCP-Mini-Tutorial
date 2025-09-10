@@ -14,13 +14,13 @@ This repository was created to show a tutorial on how to create a 3D model in Bl
 ✔️Reference image that will be used to create our 3D model.
 
 # The stated Learning Objectives for this tutorial are:
-* Learn to model in 3D space using a background image without prior pencil and paper drawing skills.
-* Use the cube that appears in Blender as a guide to create the different pieces that appear in the reference image.
-* Learn to select vertices, add new cuts, and move them using the keyboard to cover the parts that appear in the reference image.
-* Eliminate all faces, vertices, and sides that are not necessarily visible to reduce the number of triangles in our final model.
-* Implement texturing techniques using UV Wrapping before applying it to our 3D model.
-* Use the different brushes included in Blender using the Texture Paint option.
-* Export our 3D model from Blender and import it into Horizon Word to see the final result of our work.
+✔️ Learn to model in 3D space using a background image without prior pencil and paper drawing skills.
+✔️ Use the cube that appears in Blender as a guide to create the different pieces that appear in the reference image.
+✔️ Learn to select vertices, add new cuts, and move them using the keyboard to cover the parts that appear in the reference image.
+✔️ Eliminate all faces, vertices, and sides that are not necessarily visible to reduce the number of triangles in our final model.
+✔️ Implement texturing techniques using UV Wrapping before applying it to our 3D model.
+✔️ Use the different brushes included in Blender using the Texture Paint option.
+✔️ Export our 3D model from Blender and import it into Horizon Word to see the final result of our work.
 
 ### TIPS
 
