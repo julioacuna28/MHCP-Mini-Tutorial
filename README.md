@@ -23,8 +23,8 @@ Blender’s default startup shows the “Layout” workspace in the main area. T
 * Outliner on top right.
 * Properties on bottom right.
 * Timeline on bottom left.
-<img width="1442" height="767" alt="Blender Interface" src="https://github.com/user-attachments/assets/acc71cf2-0d5a-4083-93fc-8b510b02df56" />
 
+Now we will proceed to create the front part of our 3D model. First we will select all the end vertices of our cylinder that are located on the right. Then, we will repeat the E + S combination several times to cover each one of the front part. First we select E to extrude and then press S to scale the vertices and with the mouse we move the cursor outwards. Then we press E + X again (we extrude and move along the X axis) until we reach the end of the first shape in the reference image. Then we repeat the previous step again to cover the second shape. And when we are at the end, we just press E + X we reach the end and then with the S key we locate the vertices. And finally we just apply E + X to have the final edge of our model. The final result will be the following:
 
 
 
