@@ -1,7 +1,7 @@
 # From Concept Art 🎨 to Stunning 3D Game Assets 🎮
 
 > [!IMPORTANT]  
-> Read the contribution guideline before adding a pull request.
+> The final FBX file shown in this tutorial and the PNG texture are available in this repository in case you want to import them into Horizon World. Both files are named stylizedweapon.fbx and stylizedweaponcolor.png.
 
 # Introduction
 
