@@ -43,9 +43,9 @@ Blender’s default startup shows the “Layout” workspace in the main area. T
 
 <img width="1442" height="767" alt="Blender Interface" src="https://github.com/user-attachments/assets/0da645b4-38c3-4db6-a0b8-50c9a08fd474" />
 
+# First Part.
 
 Once we're in Blender, we find the image we'll use as a reference and drag it into Blender's workspace. It will look like this:
-
 
 <img width="1413" height="719" alt="ImportingImageReference" src="https://github.com/user-attachments/assets/5f930766-d0e2-4ed7-8305-249a17aab45c" />
 
@@ -100,6 +100,8 @@ Now we'll proceed to cover the entire piece. To do this, we'll switch to solid m
 Now we need to adjust how wide we want our model to be. To make it smaller, we'll scale it by pressing **S + Y** (scale along the Y axis only). The result should be as follows. Then, we'll press 1 again on the numpad to add new meshes to cover other parts of the model.
 
 <img width="397" height="589" alt="PerspectiveYAxis" src="https://github.com/user-attachments/assets/9dd30168-1fcf-4319-8f89-cbfe21d82958" />
+
+# Second Part.
 
 If you've made it this far into the tutorial, Congratulations...!!! The way we've worked in this first part is how we'll cover the rest of the tutorial.
 Now, let's add more graphic primitives to model the rest of the parts. In this second part, we'll add cylinders to cover the top of our 3D model. Press Tab to enter object mode, then press 1 on our numpad to change the view. Press **Shift + A** to go to the **Mesh option**, then look for **Cylinder**.
