@@ -26,7 +26,9 @@ Blender’s default startup shows the “Layout” workspace in the main area. T
 
 <img width="1442" height="767" alt="Blender Interface" src="https://github.com/user-attachments/assets/0da645b4-38c3-4db6-a0b8-50c9a08fd474" />
 
+
 Once we're in Blender, we find the image we'll use as a reference and drag it into Blender's workspace. It will look like this:
+
 
 <img width="1413" height="719" alt="ImportingImageReference" src="https://github.com/user-attachments/assets/5f930766-d0e2-4ed7-8305-249a17aab45c" />
 
