@@ -1,4 +1,4 @@
-# From Concept Art to Stunning 3D Game Assets
+# From Concept Art 🎨 to Stunning 3D Game Assets 🎮
 
 # Introduction
 
