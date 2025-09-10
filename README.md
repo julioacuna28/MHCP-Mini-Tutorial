@@ -1,12 +1,15 @@
 # From Concept Art 🎨 to Stunning 3D Game Assets 🎮
 
+> [!IMPORTANT]  
+> Read the contribution guideline before adding a pull request.
+
 # Introduction
 
 In the realm of game development and digital content creation, transforming a creative idea into a functional and visually striking 3D asset is a critical skill that can elevate your projects to a professional level. This tutorial will guide you step-by-step through the entire process of creating a 3D weapon, starting from a simple concept sketch to its final integration into a Horizon World Desktop Editor. Whether you're a beginner in 3D modeling or an experienced creator looking to streamline your workflow, you'll learn practical techniques and accessible tools to bring your visions to life. We’ll use industry-standard software like Blender for modeling, texturing and paiting and finally import the result into the Horizon World Desktop Editor, Meta’s platform for building immersive metaverse experiences. Get ready to unleash your creativity and craft assets that not only look stunning but are also optimized for games and virtual environments.
 
 This repository was created to show a tutorial on how to create a 3D model in Blender from a reference image, to which texture painting is applied manually. It can then be imported into the Horizon World Desktop Editor in FBX format to be used as part of any virtual world you want to develop. 
 
-# Requirements
+# ⚙️ Requirements
 ✔️ Blender 2.93
 
 ✔️ Horizon World Desktop Editor
@@ -43,7 +46,7 @@ Blender’s default startup shows the “Layout” workspace in the main area. T
 
 <img width="1442" height="767" alt="Blender Interface" src="https://github.com/user-attachments/assets/0da645b4-38c3-4db6-a0b8-50c9a08fd474" />
 
-# First Part.
+# 📖 First Part.
 
 Once we're in Blender, we find the image we'll use as a reference and drag it into Blender's workspace. It will look like this:
 
@@ -101,7 +104,7 @@ Now we need to adjust how wide we want our model to be. To make it smaller, we'l
 
 <img width="397" height="589" alt="PerspectiveYAxis" src="https://github.com/user-attachments/assets/9dd30168-1fcf-4319-8f89-cbfe21d82958" />
 
-# Second Part.
+# 📖 Second Part.
 
 If you've made it this far into the tutorial, Congratulations...!!! The way we've worked in this first part is how we'll cover the rest of the tutorial.
 Now, let's add more graphic primitives to model the rest of the parts. In this second part, we'll add cylinders to cover the top of our 3D model. Press Tab to enter object mode, then press 1 on our numpad to change the view. Press **Shift + A** to go to the **Mesh option**, then look for **Cylinder**.
@@ -232,6 +235,8 @@ Now we'll proceed to mark our model to segment the areas where we want to apply 
 
 <img width="988" height="741" alt="MarkSim" src="https://github.com/user-attachments/assets/9d4e5ac6-48e4-4405-ae81-2c42ff0b3482" />
 
+# 📖 Third Part.
+
 In this third part of our tutorial, after we've finished marking our model, we'll proceed to see how to add the texture. To do this, in the UV Editing window, we add a new color and select the Color Grid option.
 
 <img width="582" height="529" alt="UVEditing" src="https://github.com/user-attachments/assets/8b65c0dc-d7a2-49c2-adf2-c0fcfe3ed2ef" />
@@ -297,6 +302,8 @@ Now we're going to proceed to paint the rest of the parts of our 3D model. This 
 Finally, we need to export our model in .fbx format and then import it into Horizon World Desktop Editor. To do this, go to File, select Export, and then select FBX. Choose the path where you want to save it and click OK.
 
 <img width="1334" height="684" alt="ExportModel" src="https://github.com/user-attachments/assets/3e16d82d-e62e-43eb-b0b4-ee19540e88c6" />
+
+# 📖 Fourth Part.
 
 ## Importing our model into Horizon World Desktop Editor
 
