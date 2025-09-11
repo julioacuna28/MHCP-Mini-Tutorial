@@ -320,6 +320,10 @@ Now we just drag and drop our model into the scene of the world we're designing.
 
 <img width="858" height="789" alt="BlendervsHWDE" src="https://github.com/user-attachments/assets/6aeec482-d1f6-4eab-bfde-9245309988a9" />
 
+## 🎥 Video.
+
+[![Watch the video](https://youtu.be/onJ7YzRH4bc)
+
 # 👏 Conclusion
 
 As we have observed, a reference image was used to create a 3D model without prior knowledge. The possibilities with Blender are endless, as its graphics engine offers a wide range of tools that can be applied to various use cases, such as video games, animations, cinematics, modeling, sculpting, and more. On the other hand, the progress made in Horizon World is fascinating, with new tools continuously integrated into the platform, enabling the creation of stunning applications. These advancements allow users from different parts of the world to actively and concurrently participate in virtual worlds of various genres. By following this tutorial, you can unlock your creative potential and bring your ideas to life in Horizon World. Dive in, experiment, and join a global community of creators building immersive experiences that push the boundaries of imagination. Start creating today and shape the future of virtual worlds!
