@@ -322,7 +322,7 @@ Now we just drag and drop our model into the scene of the world we're designing.
 
 ## 🎥 Video.
 
-[![Watch the video](https://youtu.be/onJ7YzRH4bc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/onJ7YzRH4bc/0.jpg)](https://www.youtube.com/watch?v=onJ7YzRH4bc)
 
 # 👏 Conclusion
 
